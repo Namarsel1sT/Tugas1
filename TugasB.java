@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class tugasB {
+public class Tugas_B {
     public static void main(String[] args) {
         Scanner scanscan = new Scanner(System.in);
         int a = scanscan.nextInt();
